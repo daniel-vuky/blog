@@ -1,0 +1,7 @@
+.category-bar {
+    position: relative;
+    flex-wrap: wrap;
+}
+.categories {
+    margin: 10px;
+}

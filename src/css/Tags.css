@@ -1,0 +1,13 @@
+.all-tags { 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.tag {
+    display: inline-block;
+    background-color: white;
+    border-radius: 9999px;
+    color: rgb(55 65 81);
+    padding-left: 0.75rem; /* 12px */
+    padding-right: 0.75rem; /* 12px */
+}

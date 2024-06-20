@@ -1,0 +1,34 @@
+.post-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-header-title {
+    text-align: center;
+    font-size: 3.75rem;
+    line-height: 1;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.post-banner {
+    display: block;
+    margin-left: 395px;
+    width: 100%;
+  }
+
+.post-banner img{
+    width : 1000px;
+    height: 500px;
+    max-height: 500px;
+    object-fit: cover;
+    margin: 30px;
+}
+.post-content, .related-post {
+    width: 40%;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 700px;
+}

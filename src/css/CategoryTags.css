@@ -1,0 +1,13 @@
+.category-tag {
+    background-color: rgb(79 70 229);
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    box-shadow: -5px 3px 8px 1px #0000001f;
+    font-weight: 600;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    border-radius: 9999px;
+    margin: 10px;
+}

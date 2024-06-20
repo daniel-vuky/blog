@@ -1,0 +1,32 @@
+.top-nav svg {
+    width: 1.3em;
+    height: 1.3em;
+
+}
+.astro-header-drawer {
+    display: flex;
+    max-width: 100%;
+    padding: 10px;
+    padding-left: 345px;
+    padding-top: 30px;
+}
+.page-header {
+    float: left;
+}
+.top-nav {
+    display: flex;
+    flex-direction: row;
+    margin-left: 800px;
+}
+.tags-option {
+    display: flex;
+    border-right: 1px solid white;
+    width: 70px;
+}
+.top-nav, .social-link {
+    display: flex;
+    padding-left: 60px;
+}
+.social-link a {
+    margin-left: 15px;
+}

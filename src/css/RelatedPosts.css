@@ -1,0 +1,15 @@
+.related-posts {
+    display: flex;
+    margin-top: 50px;
+}
+.related-posts img { 
+    width: 4rem;
+    height: 4rem;
+    object-fit: cover;
+    border-radius : 9999px;
+}
+.related-content { 
+    display: flex;
+    font-weight : 500;
+    font-size: 14px;
+}
